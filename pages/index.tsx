@@ -9,6 +9,9 @@ const IndexPage = () => (
         <a>About</a>
       </Link>
     </p>
+    <p>
+      alteração para teste
+    </p>
   </Layout>
 )
 
